@@ -9,6 +9,7 @@ package arbolbinariobusqueda;
  * @author lawdv
  */
 public class Nodo {
+    //los valores con el tipo de dato
     String palabra;
     int frecuencia;
     Nodo izquierda, derecha;
